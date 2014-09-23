@@ -5,6 +5,8 @@ This is the implementation of our Infocom 2012/JSAC 2013 paper: 'Privacy-Preserv
 
 We impmeted and tested all the three levels of privacy and the max-distance matching on Andriod platform.
 
+We used the Bluetooth in smartphone for communication and built the system on the Android SDK example com.example.android.BluetootchChat.
+
 Contact: 
 Jinxue Zhang
 Arizona State University
